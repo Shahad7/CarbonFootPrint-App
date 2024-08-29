@@ -1,3 +1,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = git@github.com:VinaySatrasala/user-service.git
+[submodule "capstone-reporting-service"]
+	path = capstone-reporting-service
+	url = https://github.com/Shahad7/capstone-reporting-service.git
