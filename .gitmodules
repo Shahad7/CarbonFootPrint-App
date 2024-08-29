@@ -4,3 +4,6 @@
 [submodule "capstone-reporting-service"]
 	path = capstone-reporting-service
 	url = https://github.com/Shahad7/capstone-reporting-service.git
+[submodule "calculation-service"]
+	path = calculation-service
+	url = git@github.com:VinaySatrasala/calculation-service.git
