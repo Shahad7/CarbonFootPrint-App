@@ -7,3 +7,9 @@
 [submodule "calculation-service"]
 	path = calculation-service
 	url = git@github.com:VinaySatrasala/calculation-service.git
+[submodule "capstone-gateway"]
+	path = capstone-gateway
+	url = git@github.com:Shahad7/capstone-gateway.git
+[submodule "capstone-registry-service"]
+	path = capstone-registry-service
+	url = git@github.com:Shahad7/capstone-registry-service.git
