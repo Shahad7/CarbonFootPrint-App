@@ -1,1 +1,2 @@
-hello....!
+- Carbon Footprint Monitorin System built in Spring Boot with MongoDB as database and Angular for frontend
+- Implemented Microservices architecture and Gateway level security using jwt
